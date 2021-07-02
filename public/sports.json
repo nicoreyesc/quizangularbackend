@@ -1,0 +1,42 @@
+    {
+    "Sports": {
+    "q1": {
+    "question": "how many championships Michael Jordan won?",
+    "options": [
+    "5",
+    "6",
+    "7"
+    ],
+    "answer": "6"
+    },
+    "q2": {
+    "question": "The New York Yankees has?",
+    "options": [
+    "27 World Series championships",
+    "29 World Series championships",
+    "30 World Series championships"
+    ],
+    "answer": "27 World Series championships"
+    },
+    "q3": {
+    "question": "Who was Ayrton Senna?",
+    "options": [
+    "Brazilian F1 racing driver",
+    "Brazilian motorcycle road racer",
+    "Italian motorcycle road racer"
+    ],
+    "answer": "Brazilian F1 racing driver"
+    },
+    "q4": {
+    "question": "The team with more championships at the FA Premier League is?",
+    "options": [
+    "Rangers Football Club (18)",
+    "Liverpool (18)",
+    "Manchester United (13)"
+    ],
+    "answer": "Manchester United (13)"
+    }
+    }
+   }
+ 
+   

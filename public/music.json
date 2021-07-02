@@ -1,0 +1,31 @@
+{
+    "Music": {
+    "q1": {
+    "question": "The female artist with more Latin Grammys won is?",
+    "options": [
+    "Natalia Lafourcade (10)",
+    "Celia Cruz (16)",
+    "Shakira (13)"
+    ],
+    "answer": "Shakira (13)"
+    },
+    "q2": {
+    "question": "The highest grossing album of 2017 in US?",
+    "options": [
+    "Taylor Swift, Reputation",
+    "Ed Sheeran, ÷ (Divide)",
+    "Bruno Mars, 24K Magic"
+    ],
+    "answer": "Ed Sheeran, ÷ (Divide)"
+    },
+    "q3": {
+    "question": "the highest music viewed video on youtube 2017?",
+    "options": [
+    "See You Again - Wiz Khalifa featuring Charlie Puth",
+    "Despacito - Luis Fonsi",
+    "Shape of You - Ed Sheeran"
+    ],
+    "answer": "Despacito - Luis Fonsi"
+    }
+    }
+   }
